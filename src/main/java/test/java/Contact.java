@@ -6,6 +6,7 @@ public class Contact {
     private String LastName;
     private long phoneNumber;
 
+
     public Contact(String firstName, String lastName, long phoneNumber) {
         FirstName = firstName;
         LastName = lastName;
